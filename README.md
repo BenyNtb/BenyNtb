@@ -63,5 +63,5 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyNtb&show_icons=true&theme=dracula) 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyNtb&layout=compact theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Beny](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BenyNtb)](https://github.com/anuraghazra/github-readme-stats) -->

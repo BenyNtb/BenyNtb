@@ -7,7 +7,7 @@
 </h3>
 <p align="center" dir="auto">
  <samp>
-                「 I am a Frontend web developer from Belgium  」
+                「 I am a Frontend Developer from Belgium  」
                 <br>
                 <br>
         </samp>

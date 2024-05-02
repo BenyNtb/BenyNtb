@@ -1,13 +1,20 @@
 ###
 
-<h3 align="center" dir="auto"><a id="user-content----------hey-there-i-am----------------benyntb--------" class="anchor" aria-hidden="true" href="#---------hey-there-i-am----------------shahriar-shafin--------"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
-        <samp>&gt; Hey There! I am
-                <b><a   href="https://github.com/BenyNtb" rel="nofollow">ʙᴇɴᴇᴅɪᴄᴛᴇ </a></b><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"> </h2>
-        </samp>
+<h3 align="center" dir="auto" color="#DC143C"><a id="user-content----------hey-there-i-am----------------benyntb--------" class="anchor" aria-hidden="true" href="#---------hey-there-i-am-----------------------">
+       <a href="https://github.com/BenyNtb">
+    <svg width="200" height="30" fill="#DC143C">
+    <text x="0" y="15" fill="#DC143C" font-family="Arial" font-size="15">Benedicte Modi</text>
+</svg>
+
+</a>
+
 </h3>
 <p align="center" dir="auto">
  <samp>
-                「 I am a Frontend Developer from Belgium  」
+                <a href="https://github.com/BenyNtb/readme-typing-svg">
+   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer+and+iOS+Developer;Always+learning+new+things&font=Fira+Code&center=true&width=1000&height=45&color=DC143C&vCenter=true&pause=1000&size=22" style="max-width: 100%;">
+
+</a>
                 <br>
                 <br>
                 www.benedictemodi.com
@@ -15,6 +22,7 @@
 </p>
 <h2 dir="auto"><a id="user-content-space_invader-about-me" class="anchor" aria-hidden="true" href="#space_invader-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="space_invader" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47e.png">🎀</g-emoji> &nbsp;About Me</h3>
 <ul dir="auto">
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🏢</g-emoji> &nbsp;I'm currently working at Scabel         
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> &nbsp;My last project: www.benedictemodi.com <g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">😉</g-emoji></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> &nbsp;I’m currently learning Swift</li>
 <!--<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask</li> -->
@@ -56,14 +64,17 @@
 </p>
 <br/>
 <h2 dir="auto"><a id="user-content--technologies" class="anchor" aria-hidden="true" href="#-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">💌</g-emoji> Let's connect !</h2>
-<a href="https://www.linkedin.com/in/benedicte-ntambwe" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/benedicte-ntambwe" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://twitter.com/intent/follow?screen_name=benyjs" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Follow" data-canonical-src="https://img.shields.io/twitter/follow/benyjs?style=social" style="max-width: 100%;"></a>
 
 
 
 
 
-
+<p align="center" dir="auto"> 
+  Visitor count<br>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db07177c06894508e387619d46fef38609e057def5138181f58c47f1c6b477e9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667"><img src="https://camo.githubusercontent.com/db07177c06894508e387619d46fef38609e057def5138181f58c47f1c6b477e9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/BenyNtb/count.svg" style="max-width: 100%;"></a>
+</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenyNtb&show_icons=true&theme=vision-friendly-dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyNtb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=BenyNtb.visitor-badge" style="max-width: 100%;"></a> -->

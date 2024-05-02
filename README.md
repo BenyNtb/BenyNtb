@@ -71,10 +71,10 @@
 
 
 
-<p align="center" dir="auto"> 
+<!--<p align="center" dir="auto"> 
   Visitor count<br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/db07177c06894508e387619d46fef38609e057def5138181f58c47f1c6b477e9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667"><img src="https://camo.githubusercontent.com/db07177c06894508e387619d46fef38609e057def5138181f58c47f1c6b477e9/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f73616761722d76697261646979612f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/BenyNtb/count.svg" style="max-width: 100%;"></a>
-</p>
+</p> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenyNtb&show_icons=true&theme=vision-friendly-dark)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyNtb&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475"><img src="https://camo.githubusercontent.com/4f7a8bfc334d950a8a472c3676a396262561252bca7eee47d11784136a1e3269/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d616268697368656b6e61696964752e616268697368656b6e6169696475" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=BenyNtb.visitor-badge" style="max-width: 100%;"></a> -->
